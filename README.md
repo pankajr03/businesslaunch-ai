@@ -22,6 +22,7 @@ BusinessLaunch AI is a **Streamlit app** that helps entrepreneurs instantly gene
 git clone https://github.com/<your-username>/businesslaunch-ai.git
 cd businesslaunch-ai
 
+---
 
 ### 2️⃣ Create a Virtual Environment
 python -m venv venv
